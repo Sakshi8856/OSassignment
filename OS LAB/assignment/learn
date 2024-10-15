@@ -1,0 +1,6 @@
+touch fork.c  
+
+gcc -o fork2 fork1.c  
+
+./fork2
+
